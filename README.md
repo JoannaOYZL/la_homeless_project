@@ -3,12 +3,12 @@ City of Los Angeles-Homeless Project
 
 ## Project Overview
 
-- Analytics Tool: R (packages: ggplot2, stringr, lubridate, dplyr, rgdal, leaflet, shiny)
+- **Analytics Tool**: R (packages: ggplot2, stringr, lubridate, dplyr, rgdal, leaflet, shiny)
 
-- Early Stage:
+- **Early Stage**:
 Initially, we started our analysis from the Service Planning Area(SPA) levels, which are broad geographical divisions of greater Los Angeles areas. At these levels analysis, we found that no matter for total homeless people counts, unsheltered people counts,311 calls density or crime incidents rate; SPA4(Metro LA) and SPA6(South LA) have the most severe problems.
  
-- Middle Stage:
+- **Middle Stage**:
 Later, we dived into more detailed areas of the city of Los Angeles instead of the greater Los Angeles areas. We plot the density heat map for total homeless people, unsheltered/sheltered homeless people, 311 calls and crime incidents to identify what specific areas of the city of Los Angeles have the most serious homeless problem. At this stage, we found that census tract ID 206300/ Community Skid Row/ Council District 14 are the targeted areas in need of more in-depth analysis.
  
 ## Final Deliverables: 
